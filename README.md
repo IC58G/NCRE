@@ -5,7 +5,6 @@
 ![](https://www.neea.edu.cn/res/Home/structure/22051678.png)
 
 ## 应用列表&下载：
-
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 应用名称 </th> <th> 下载链接 </th> <th> 待添加 </th> </tr >
     <tr>
@@ -31,7 +30,7 @@
 		<td > 7 </td> <td > 二级VB语言程序设计</td> <td ><a href="https://github.com/IC58G/NCRE/releases/download/Win/2.VB.exe"><em>点击下载</em></a></td><td>待添加</td>  
     </tr>
 		<tr>
-      		<td > 10 </td> <td > —二级C语言程序设计</td> <td ><a href="https://github.com/IC58G/NCRE/releases/download/Win/2.C.exe"><em>点击下载</em></a></td><td>待添加</td> 
+      		<td > 8 </td> <td > —二级C语言程序设计</td> <td ><a href="https://github.com/IC58G/NCRE/releases/download/Win/2.C.exe"><em>点击下载</em></a></td><td>待添加</td> 
     </tr>
 	<tr>
 		<td > 9 </td> <td > 二级C++语言程序设计</td> <td ><a href="https://github.com/IC58G/NCRE/releases/download/Win/2.C++.exe"><em>点击下载</em></a></td><td>待添加</td>  
@@ -39,4 +38,4 @@
 	<tr>
 		<td > 10 </td> <td > 三级网络技术</td> <td ><a href="https://github.com/IC58G/NCRE/releases/download/Win/3.Network.exe"><em>点击下载</em></a></td><td>待添加</td>  
     </tr>
-</table>
+</table> 
