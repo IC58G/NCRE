@@ -9,7 +9,7 @@
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 应用名称 </th> <th> 下载链接 </th> <th> 待添加 </th> </tr >
     <tr>
 		<td rowspan="24"><strong>模拟软件</strong></td>
-		<td > 1 </td> <td > 一级计算机基础及MS Office应用</td> <td ><a href="hhttps://github.com/IC58G/NCRE/releases/download/Win/MS.Office.exe"><em>点击下载</em></a></td><td>待添加</td>
+		<td > 1 </td> <td > 一级计算机基础及MS Office应用</td> <td ><a href="https://github.com/IC58G/NCRE/releases/download/Win/MS.Office.exe"><em>点击下载</em></a></td><td>待添加</td>
     </tr>
     <tr>
 		<td > 2 </td> <td > 一级计算机基础及WPS Office应用</td> <td ><a href="https://github.com/IC58G/NCRE/releases/download/Win/WPS.Office.exe"><em>点击下载</em></a></td><td>待添加</td>
