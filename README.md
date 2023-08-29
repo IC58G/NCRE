@@ -4,6 +4,42 @@
 
 ![](https://www.neea.edu.cn/res/Home/structure/22051678.png)
 
+<table>
+    <tr>
+        <th>项目名称</th>
+        <th>序号</th>
+        <th>网址</th>
+        <th>备注</th>
+    </tr>
+    <tr>
+        <td>考试大纲</td>
+        <td>1</td>
+        <td><a href="https://ncre.neea.edu.cn/xhtml1/report/2306/266-1.htm">进入</a></td>
+        <td>用于查询考试项目及环境</td>
+    </tr>
+    <tr>
+        <td>报名</td>
+        <td>2</td>
+        <td><a href="https://ncre-bm.neea.cn">进入</a></td>
+        <td>在线报名</td>
+    </tr>
+    <tr>
+        <td>成绩查询</td>
+       <td>3</td>
+        <td><a href="https://cjcx.neea.edu.cn/html1/folder/22014/5476-1.htm">进入</a></td>
+        <td>通过图例可看出各考试项目 大概得分</td>
+    </tr>
+    <tr>
+        <td>证书查询</td>
+        <td>4</td>
+        <td><a href="https://zscx.neea.edu.cn/html1/folder/22014/5504-1.htm">进入</a></td>
+        <td>由于各大高校不再提供 报名时填写仅电子档 学校发放证书</td>
+    </tr>
+</table>
+
+
+
+
 ## 应用列表&下载：
 
 <table>
