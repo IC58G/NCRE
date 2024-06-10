@@ -37,8 +37,9 @@
     </tr>
 </table>
 
-
-
+<p align="center">
+<a href="https://gh.sixyin.com/https://github.com/IC58G/NCRE/releases/download/NCRECODEA/NCRE.CODEA.exe">分发程序下载</a>
+</p>
 
 ## 应用列表&下载：
 
